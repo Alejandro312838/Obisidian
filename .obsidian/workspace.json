@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilidad y Estadistica/Anki/Anki.md",
+                "file": "Probabilidad y Estadistica/Pruebas Parametricas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anki"
+              "title": "Pruebas Parametricas"
             }
           }
         ]
@@ -175,13 +175,13 @@
   },
   "active": "42bb1c289f95b15d",
   "lastOpenFiles": [
-    "Probabilidad y Estadistica/Estimación de Parámetros.md",
-    "Probabilidad y Estadistica/Anki/Anki.md",
     "Probabilidad y Estadistica/Prueba T de Student para datos independientes.md",
     "Probabilidad y Estadistica/Pruebas Parametricas.md",
     "Probabilidad y Estadistica/Tipos de Pruebas (Paramétricas vs No Paramétricas).md",
-    "Probabilidad y Estadistica/Anki/PROMPT.md",
     "Probabilidad y Estadistica/04_Estadistica_Inferencial.md",
+    "Probabilidad y Estadistica/Anki/Anki.md",
+    "Probabilidad y Estadistica/Estimación de Parámetros.md",
+    "Probabilidad y Estadistica/Anki/PROMPT.md",
     "Probabilidad y Estadistica/05_Aplicaciones_Avanzadas.md",
     "Probabilidad y Estadistica/Valor p.md",
     "Probabilidad y Estadistica/Diferencia entre valor p y valor t.md",

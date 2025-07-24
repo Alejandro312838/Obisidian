@@ -1,4 +1,5 @@
-## Tipos de pruebas paramétricas:
+waawawaa
+## Tipos de pruebas paramétricas: 
 
 - [[Prueba del valor Z de la distribución normal]]
 - [[Prueba T de Student]] para datos relacionados (muestras dependientes)
