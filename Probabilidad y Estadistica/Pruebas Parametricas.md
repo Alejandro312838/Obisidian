@@ -1,3 +1,12 @@
+## Tipos de pruebas paramétricas:
+
+- [[Prueba del valor Z de la distribución normal]]
+- [[Prueba T de Student]] para datos relacionados (muestras dependientes)
+-  [[Prueba T de Student para datos independientes]] (muestras independientes)
+- [[Prueba T de Student-Welch para dos muestras independientes con varianzas no homogéneas]]
+- [[Prueba de Ji Cuadrada de Bartlett]] para demostrar la homogeneidad de varianzas
+- Prueba F (análisis de varianza o [ANOVA](https://www.questionpro.com/blog/es/anova/)).
+
 Las pruebas paramétricas son una herramienta estadística que se utiliza para el análisis de los factores de la población. Esta muestra debe cumplir ciertos requisitos como el tamaño, ya que mientras más grande sea, más exacto será el cálculo.
 
 **Este método requiere que se especifique la forma de distribución de la población** materna estudiada. Puede tratarse, por ejemplo, de una distribución normal, como ocurre en general cuando se trata de muestras de gran tamaño. En general, estas pruebas sólo pueden aplicarse a variables numéricas.
@@ -24,4 +33,6 @@ Las **desventajas** de las pruebas paramétricas son:
 
 - Los cálculos son difíciles de realizar
 - Los datos que se pueden observar son limitados
+
+
 

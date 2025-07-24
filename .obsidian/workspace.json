@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efad058753f69043",
+        "id": "2558d2994fb26c94",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2b30c82d5fdf63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probabilidad y Estadistica/Estimación de Parámetros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estimación de Parámetros"
-            }
-          },
-          {
-            "id": "8376504bc2ee65b9",
+            "id": "42bb1c289f95b15d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Anki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,36 +169,39 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "translate:Open translation view": false
+      "translate:Open translation view": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "8376504bc2ee65b9",
+  "active": "42bb1c289f95b15d",
   "lastOpenFiles": [
+    "Probabilidad y Estadistica/Estimación de Parámetros.md",
+    "Probabilidad y Estadistica/Anki/Anki.md",
+    "Probabilidad y Estadistica/Prueba T de Student para datos independientes.md",
+    "Probabilidad y Estadistica/Pruebas Parametricas.md",
+    "Probabilidad y Estadistica/Tipos de Pruebas (Paramétricas vs No Paramétricas).md",
+    "Probabilidad y Estadistica/Anki/PROMPT.md",
+    "Probabilidad y Estadistica/04_Estadistica_Inferencial.md",
+    "Probabilidad y Estadistica/05_Aplicaciones_Avanzadas.md",
+    "Probabilidad y Estadistica/Valor p.md",
+    "Probabilidad y Estadistica/Diferencia entre valor p y valor t.md",
+    "z Imagenes/Pasted image 20250723200753.png",
+    "z Imagenes/Pasted image 20250723200645.png",
+    "z Imagenes/Pasted image 20250723200556.png",
+    "z Imagenes/Pasted image 20250723200509.png",
+    "Probabilidad y Estadistica/Conceptos de Pruebas de Hipótesis.md",
     "z Imagenes/Pasted image 20250717202413.png",
     "z Imagenes/Pasted image 20250717202355.png",
     "z Imagenes/Pasted image 20250717202315.png",
     "z Imagenes/Pasted image 20250717202214.png",
-    "Probabilidad y Estadistica/Tipos de Pruebas (Paramétricas vs No Paramétricas).md",
-    "Probabilidad y Estadistica/Pruebas Parametricas.md",
-    "Probabilidad y Estadistica/04_Estadistica_Inferencial.md",
-    "Probabilidad y Estadistica/Conceptos de Pruebas de Hipótesis.md",
     "Probabilidad y Estadistica/Máxima Verosimilitud.md",
-    "Probabilidad y Estadistica/05_Aplicaciones_Avanzadas.md",
     "z Imagenes/Pasted image 20250717180736.png",
     "z Imagenes/Pasted image 20250717164731.png",
-    "z Imagenes/Pasted image 20250717163640.png",
     "Probabilidad y Estadistica/03_Probabilidad.md",
-    "Probabilidad y Estadistica/Anki/Anki.md",
     "Probabilidad y Estadistica/Estimacion del tamaño de la muestra e intervalo de confianza.md",
-    "Probabilidad y Estadistica/Estimación de Parámetros.md",
     "Probabilidad y Estadistica/Calculo intervalo de confianza para la proporcion.md",
     "Probabilidad y Estadistica/Calculo intervalo de confianza para la media.md",
-    "Probabilidad y Estadistica/Anki/PROMPT.md",
-    "z Imagenes/Pasted image 20250716192653.png",
-    "z Imagenes/Pasted image 20250716192557.png",
-    "z Imagenes/Pasted image 20250716192455.png",
     "Probabilidad y Estadistica/Axiomas de Probabilidad.md",
-    "z Imagenes/Pasted image 20250716191514.png",
     "Probabilidad y Estadistica/Muestreo por Conglomerados.md",
     "Probabilidad y Estadistica/Muestreo Estratificado.md",
     "Probabilidad y Estadistica/Muestreo Aleatorio Simple.md",
@@ -223,8 +211,6 @@
     "Escuela/Exposicion Probabilidad.md",
     "Probabilidad y Estadistica/Test Chi-Cuadrado prueba de bondad de ajuste.md",
     "Probabilidad y Estadistica/Tests de Chi-Cuadrado.md",
-    "Probabilidad y Estadistica/Test Chi-Cuadrado prueba de independencia.md",
-    "Probabilidad y Estadistica/Distribución Chi-cuadrado (χ²).md",
     "Probabilidad y Estadistica/Anki",
     "z Imagenes",
     "Probabilidad y Estadistica",

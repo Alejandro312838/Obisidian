@@ -135,7 +135,11 @@
     "Pasted image 20250717164731.png",
     "Pasted image 20250717202214.png",
     "Pasted image 20250717202315.png",
-    "Pasted image 20250717202413.png"
+    "Pasted image 20250717202413.png",
+    "Pasted image 20250723200509.png",
+    "Pasted image 20250723200556.png",
+    "Pasted image 20250723200645.png",
+    "Pasted image 20250723200753.png"
   ],
   "File Hashes": {
     "Probabilidad y Estadistica/Población y Muestra.md": "c141f9e5c0b135d9d7ef48391e508e41",
@@ -148,7 +152,7 @@
     "Escuela/PCD.md": "c46408713179a22229176202cdc16be7",
     "Escuela/Exposicion Probabilidad.md": "aa3d305d485372217230689a9d9d1e76",
     "Probabilidad y Estadistica/Anki/aa.md": "e7cb25c56e58f2890eb6732e59c667d5",
-    "Probabilidad y Estadistica/Anki/Anki.md": "c3a9976dd30fa29a6832d09cf89597a1",
+    "Probabilidad y Estadistica/Anki/Anki.md": "e3a8a6b337c76b888c3f6287670c0a02",
     "Probabilidad y Estadistica/Variables y Tipos de Datos.md": "592b2f2298aa5450ac7a7c0c51fa941d",
     "Probabilidad y Estadistica/Comparación de Medidas de Tendencia Central.md": "9b0666084cce7308017d6a8ff883790e",
     "Probabilidad y Estadistica/Variables Discretas vs Continuas.md": "1456b7c09b191429f1a44706e10acafd",
@@ -198,10 +202,13 @@
     "Probabilidad y Estadistica/Muestreo por Conglomerados.md": "56cfc09fe4513f349ffdd51e33d343d5",
     "Probabilidad y Estadistica/Muestreo Estratificado.md": "c5ee23f6b5f6307d521b609fe9659b85",
     "Probabilidad y Estadistica/Estimación de Parámetros.md": "e03ce5feb351ee0969fdcc21722858dc",
-    "Probabilidad y Estadistica/Pruebas Parametricas.md": "0f962715fda6ea42a486545ca9bd9084",
+    "Probabilidad y Estadistica/Pruebas Parametricas.md": "9809f33799a4c1c91af77f0fd073280c",
     "Probabilidad y Estadistica/Tipos de Pruebas (Paramétricas vs No Paramétricas).md": "af67bbbb24e32b44b27988942401cc79",
     "Probabilidad y Estadistica/Conceptos de Pruebas de Hipótesis.md": "9b236d2a046dfdca2ae62e700245a081",
-    "Probabilidad y Estadistica/Máxima Verosimilitud.md": "e0789a09b571298ee51434f86c15ef58"
+    "Probabilidad y Estadistica/Máxima Verosimilitud.md": "e0789a09b571298ee51434f86c15ef58",
+    "Probabilidad y Estadistica/Diferencia entre valor p y valor t.md": "f058a3f130e5bbde56ba7384171d5a50",
+    "Probabilidad y Estadistica/Valor p.md": "8abcd29d48cca07a5a0ea83bc7dcc3d3",
+    "Probabilidad y Estadistica/Prueba T de Student para datos independientes.md": "e08a62e800a58cc4f15bd680bc6074b9"
   },
   "fields_dict": {
     "Basic": [

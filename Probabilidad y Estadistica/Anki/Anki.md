@@ -1,5 +1,100 @@
 TARGET DECK: Intellectual Greed
 
+**¿Qué es la prueba t de Student para datos independientes?** #flashcard
+Es una **prueba estadística utilizada para comparar las medias de dos grupos y determinar si existe una diferencia significativa entre ellas**.  
+Se aplica cuando:
+- Se desconoce la desviación estándar poblacional.
+- El tamaño de muestra es pequeño.
+- Las muestras son **independientes**.
+    
+<!--ID: 1753324830632-->
+
+
+---
+
+**¿Qué es el Error Estándar de la Diferencia entre Medias (SED) y cual es su formula?** #flashcard
+Es una medida que cuantifica la variabilidad en la diferencia entre dos medias muestrales.  
+Se usa como base para calcular el estadístico t en la prueba de dos muestras.  
+![[Pasted image 20250723200509.png]]
+<!--ID: 1753324830651-->
+
+
+---
+
+**¿Qué es el Error Estándar de la Diferencia entre Medias estimado a partir de muestras y cual es su formula?** #flashcard
+Cuando no se conoce la varianza poblacional, se usa una estimación a partir de los datos muestrales.  
+![[Pasted image 20250723200556.png]]
+<!--ID: 1753324830658-->
+
+
+---
+
+**¿Cuál es la fórmula de la prueba t para datos independientes?** #flashcard
+La fórmula de la prueba t para comparar dos medias con muestras independientes es:  
+![[Pasted image 20250723200645.png]]  
+**Criterio de decisión:**
+- Si |t observado| > t crítico → **Rechazas Ho**
+- Si |t observado| ≤ t crítico → **No rechazas Ho**
+    
+<!--ID: 1753324830665-->
+
+
+---
+
+**Ejemplo de aplicación de la prueba t para datos independientes** #flashcard
+![[Pasted image 20250723200753.png]]
+<!--ID: 1753324830672-->
+
+
+**¿Qué son las pruebas paramétricas?** #flashcard
+Las **pruebas paramétricas** son herramientas estadísticas utilizadas para analizar los factores de una población bajo ciertos supuestos.  
+Requieren que la muestra siga una **distribución específica** (normal en la mayoría de los casos) y que las variables sean **numéricas**.  
+Estas pruebas son más fiables cuanto mayor es el tamaño de la muestra.
+<!--ID: 1753324830678-->
+
+
+---
+
+**¿Cuáles son las condiciones que deben cumplir las pruebas paramétricas?** #flashcard
+
+1. **Normalidad:** Las observaciones deben ajustarse a una distribución normal (se puede comprobar con pruebas de bondad de ajuste).
+2. **Homocedasticidad:** Las varianzas de los grupos deben ser homogéneas.
+3. **Independencia de errores:** Los errores deben ser independientes; esto sucede cuando los sujetos se asignan de forma aleatoria y están distribuidos normalmente en el grupo.
+    
+<!--ID: 1753324830685-->
+
+
+---
+
+**¿Cuáles son las ventajas de las pruebas paramétricas?** #flashcard
+- Son más eficientes.
+- Son sensibles a las características de los datos.
+- La probabilidad de errores es muy baja.
+- Los cálculos probabilísticos son muy exactos.
+    
+<!--ID: 1753324830691-->
+
+
+---
+**¿Cuáles son las desventajas de las pruebas paramétricas?** #flashcard
+- Los cálculos pueden ser complejos.
+- Solo se pueden aplicar a ciertos tipos de datos observables (numéricos y con ciertas propiedades).
+    
+<!--ID: 1753324830698-->
+
+
+---
+
+**¿Cuáles son los tipos de pruebas paramétricas?** #flashcard
+- Prueba del valor Z de la distribución normal
+- Prueba T de Student para datos relacionados (muestras dependientes)
+- Prueba T de Student para datos independientes (muestras independientes)
+- Prueba T de Student-Welch para dos muestras independientes con varianzas no homogéneas
+- Prueba de Ji Cuadrada de Bartlett para demostrar la homogeneidad de varianzas
+- Prueba F (análisis de varianza o ANOVA)
+<!--ID: 1753324830704-->
+
+
 
 **¿Qué es la Máxima Verosimilitud (MLE)?** #flashcard
 Es un **método estadístico utilizado para estimar los parámetros de un modelo**.  
